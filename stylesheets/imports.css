@@ -1,1 +1,27 @@
-.box{padding:24px}.box--s{padding:12px}.box--l{padding:48px}
+/**
+ ^	Box
+ *
+ *	Used to box off content from the rest of the document.
+ *
+ *	<div class="box">
+ *
+ *	</div>
+ */
+/*	Block
+	-----------------------------------------------------*/
+/* line 14, ../sass/source/com/box.scss */
+.box {
+  padding: 24px;
+}
+
+/*	Modifier
+	-----------------------------------------------------*/
+/* line 23, ../sass/source/com/box.scss */
+.box--s {
+  padding: 12px;
+}
+
+/* line 29, ../sass/source/com/box.scss */
+.box--l {
+  padding: 48px;
+}

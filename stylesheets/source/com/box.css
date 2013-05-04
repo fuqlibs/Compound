@@ -54,7 +54,7 @@ file:/C:/Users/Hero/Desktop/compass.app/compass-app.jar!/app.rb:157:in `get_stdo
 file:/C:/Users/Hero/Desktop/compass.app/compass-app.jar!/ui/tray.rb:334:in `clean_project'
 file:/C:/Users/Hero/Desktop/compass.app/compass-app.jar!/app.rb:186:in `try'
 file:/C:/Users/Hero/Desktop/compass.app/compass-app.jar!/ui/tray.rb:333:in `clean_project'
-file:/C:/Users/Hero/Desktop/compass.app/compass-app.jar!/ui/tray.rb:386:in `linecomments_handler'
+file:/C:/Users/Hero/Desktop/compass.app/compass-app.jar!/ui/tray.rb:326:in `clean_project_handler'
 file:/C:/Users/Hero/Desktop/compass.app/compass-app.jar!/ui/tray.rb:62:in `run'
 file:/C:/Users/Hero/Desktop/compass.app/compass-app.jar!/main.rb:72:in `(root)'
 org/jruby/RubyKernel.java:1062:in `require'
