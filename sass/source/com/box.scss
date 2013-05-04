@@ -1,0 +1,34 @@
+/**
+ ^	Box
+ *
+ *	Used to box off content from the rest of the document.
+ *
+ *	<div class="box">
+ *
+ *	</div>
+ */
+
+/*	Block
+	-----------------------------------------------------*/
+
+	.box {
+
+		padding: $base-line-height;
+
+	}	
+
+/*	Modifier
+	-----------------------------------------------------*/
+
+	.box--s {
+
+		padding: $base-line-height / 2;
+
+	}	
+
+	.box--l {	
+
+		padding: $base-line-height * 2;
+
+	}		
+

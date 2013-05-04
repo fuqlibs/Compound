@@ -1,0 +1,27 @@
+2013-05-04 01:12:09 identical stylesheets/screen.css 
+2013-05-04 01:12:09 identical stylesheets/screen.css 
+2013-05-04 01:12:10 identical stylesheets/screen.css 
+2013-05-04 01:13:26     error sass/com/box.scss (Line 16: Undefined variable: "$base-line-height".)
+2013-05-04 01:13:26    create stylesheets/com/box.css 
+2013-05-04 01:13:27     error sass/source/com/box.scss (Line 16: Undefined variable: "$base-line-height".)
+2013-05-04 01:13:27    create stylesheets/source/com/box.css 
+2013-05-04 01:13:38    create stylesheets/source/vars.css 
+2013-05-04 01:14:29     error sass/imports.scss (Line 6: File to import not found or unreadable: com/box.scss.
+Load paths:
+  C:/Users/Hero/Desktop/My Work/Sass/Compound/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.4/sass
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  C:/Users/Hero/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  Compass::SpriteImporter)
+2013-05-04 01:14:29    create stylesheets/imports.css 
+2013-05-04 01:15:38     error sass/imports.scss (Line 16 of sass/source/com/box.scss: Undefined variable: "$base-line-height".)
+2013-05-04 01:15:38 overwrite stylesheets/imports.css 
+2013-05-04 01:15:50 overwrite stylesheets/imports.css 
+2013-05-04 01:15:50 identical stylesheets/source/vars.css 
